@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Like } from "gatby";
+import { Like } from "gatsby";
 
 function testPage() {
   return (
